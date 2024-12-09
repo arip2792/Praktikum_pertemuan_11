@@ -147,3 +147,18 @@ Menampilkan Menu: Program menampilkan menu utama untuk pengguna memilih tindakan
 Pengguna Memilih Menu: Berdasarkan input pilihan pengguna, program akan memanggil metode yang sesuai (tambah, tampilkan, hapus, atau ubah).
 
 Keluar: Jika pengguna memilih opsi kelima, program akan berhenti dan menampilkan pesan terima kasih
+
+#
+
+*C. FLOWCHART*
+
+![image](https://github.com/user-attachments/assets/b8978e75-d920-476e-9ba5-4a0f0394e696)
+
+#
+
+*D. HASIL RUN CODE*
+
+![image](https://github.com/user-attachments/assets/02e2a054-0c11-49cb-b5eb-39d6e64b3f9a)
+
+![image](https://github.com/user-attachments/assets/38b17eea-5e2f-4c05-826d-31149028503a)
+

@@ -80,6 +80,13 @@
 
 ![image](https://github.com/user-attachments/assets/9109f7b6-2379-4efd-9e44-71e42e39bc09)
 
+PENJELASAN :
+
+class SistemMahasiswa:
+    def __init__(self):
+        self.__daftar_mahasiswa = {}
+
+__init__(self): Ini adalah metode konstruktor yang akan dipanggil saat objek dari kelas SistemMahasiswa dibuat. Di dalam konstruktor, kita menginisialisasi atribut __daftar_mahasiswa sebagai dictionary kosong. Atribut ini digunakan untuk menyimpan data mahasiswa, dengan nama mahasiswa sebagai kunci (key) dan informasi seperti NIM, nilai, dan status sebagai nilai (value).
 
 
 

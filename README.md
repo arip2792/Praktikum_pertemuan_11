@@ -115,3 +115,35 @@ tampilkan(self): Metode ini digunakan untuk menampilkan semua data mahasiswa yan
 Cek Kosong: Sebelum menampilkan, program memeriksa apakah daftar mahasiswa kosong. Jika kosong, tampilkan pesan "Tidak ada data mahasiswa."
 
 Format Tampilan: Menampilkan nama, NIM, nilai, dan status mahasiswa dalam format tabel yang teratur. Nama mahasiswa ditampilkan dengan format huruf kapital pertama (title()).
+#
+![image](https://github.com/user-attachments/assets/f1f43e5b-758d-4fa6-a911-56a8a39c68b1)
+
+hapus(self, nama): Metode ini digunakan untuk menghapus mahasiswa dari daftar berdasarkan nama.
+
+Nama diubah menjadi huruf kecil: Nama yang dimasukkan oleh pengguna diubah menjadi huruf kecil agar pencocokan nama tidak tergantung pada huruf kapital.
+
+Cek Keberadaan Nama: Jika nama mahasiswa ada dalam daftar, maka data mahasiswa tersebut akan dihapus. Jika tidak ada, tampilkan pesan bahwa mahasiswa tidak ditemukan.
+#
+![image](https://github.com/user-attachments/assets/6005acf7-36b5-44c7-96af-1dbff861f6c0)
+
+ubah(self, nama): Metode ini digunakan untuk mengubah data mahasiswa, baik NIM atau nilai.
+
+Cek Keberadaan Mahasiswa: Jika nama mahasiswa tidak ditemukan dalam daftar, tampilkan pesan kesalahan.
+
+Pilihan Pengguna: Pengguna diberikan dua pilihan untuk mengubah data: 1) NIM atau 2) Nilai.
+
+Ubah NIM: Jika pengguna memilih untuk mengubah NIM, sistem meminta input NIM baru dan memperbarui data.
+
+Ubah Nilai: Jika memilih untuk mengubah nilai, sistem meminta input nilai baru, memvalidasi agar berada dalam rentang 0-100, dan memperbarui nilai serta status mahasiswa berdasarkan nilai baru.
+#
+![image](https://github.com/user-attachments/assets/f3395048-afa5-4531-9297-fe8f13631498)
+
+main(): Fungsi utama yang menjalankan program.
+
+Membuat Objek sistem: Membuat objek dari kelas SistemMahasiswa.
+
+Menampilkan Menu: Program menampilkan menu utama untuk pengguna memilih tindakan yang ingin dilakukan.
+
+Pengguna Memilih Menu: Berdasarkan input pilihan pengguna, program akan memanggil metode yang sesuai (tambah, tampilkan, hapus, atau ubah).
+
+Keluar: Jika pengguna memilih opsi kelima, program akan berhenti dan menampilkan pesan terima kasih

@@ -54,15 +54,22 @@
 
    Jika Pilihan = 4 (Ubah Data Mahasiswa):
 
-Input nama mahasiswa yang ingin diubah.
-Tampilkan pilihan untuk mengubah NIM atau nilai.
-Jika memilih untuk mengubah nilai, lakukan validasi dan perbarui nilai.
-Tentukan status baru berdasarkan nilai yang diubah.
-Kembali ke Menu Utama.
-Jika Pilihan = 5 (Keluar):
+   >Input nama mahasiswa yang ingin diubah.
 
-Program berhenti dan tampilkan pesan terima kasih.
+   >Tampilkan pilihan untuk mengubah NIM atau nilai.
+
+   >Jika memilih untuk mengubah nilai, lakukan validasi dan perbarui nilai.
+
+   >Tentukan status baru berdasarkan nilai yang diubah.
+
+   >Kembali ke Menu Utama.
+
+   Jika Pilihan = 5 (Keluar):
+
+   >Program berhenti dan tampilkan pesan terima kasih.
+
 4. Kembali ke Menu Utama
-Jika pengguna memilih menu selain keluar, program kembali menampilkan menu utama untuk memilih tindakan selanjutnya.
+
+   Jika pengguna memilih menu selain keluar, program kembali menampilkan menu utama untuk memilih tindakan selanjutnya.
 
 

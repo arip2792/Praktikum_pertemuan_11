@@ -4,7 +4,7 @@
 
 1. Mulai
 
- Program dimulai.
+   Program dimulai.
 
 2. Tampilkan Menu Utama
 

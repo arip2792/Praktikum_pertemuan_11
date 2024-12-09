@@ -36,17 +36,23 @@
 
    >Kembali ke Menu Utama.
 
-Jika Pilihan = 2 (Tampilkan Mahasiswa):
+   Jika Pilihan = 2 (Tampilkan Mahasiswa):
 
-Tampilkan daftar mahasiswa yang ada.
-Kembali ke Menu Utama.
-Jika Pilihan = 3 (Hapus Mahasiswa):
+   >Tampilkan daftar mahasiswa yang ada.
+   
+   >Kembali ke Menu Utama.
 
-Input nama mahasiswa yang ingin dihapus.
-Cek apakah mahasiswa ada dalam daftar.
-Jika ada, hapus mahasiswa.
-Kembali ke Menu Utama.
-Jika Pilihan = 4 (Ubah Data Mahasiswa):
+   Jika Pilihan = 3 (Hapus Mahasiswa):
+
+   >Input nama mahasiswa yang ingin dihapus.
+
+   >Cek apakah mahasiswa ada dalam daftar.
+
+   >Jika ada, hapus mahasiswa.
+
+   >Kembali ke Menu Utama.
+
+   Jika Pilihan = 4 (Ubah Data Mahasiswa):
 
 Input nama mahasiswa yang ingin diubah.
 Tampilkan pilihan untuk mengubah NIM atau nilai.

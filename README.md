@@ -108,3 +108,10 @@ Menentukan Status Mahasiswa: Berdasarkan nilai yang dimasukkan, status mahasiswa
 
 Menyimpan Data Mahasiswa: Setelah validasi dan penentuan status, data mahasiswa disimpan dalam dictionary __daftar_mahasiswa dengan nama mahasiswa (huruf kecil) sebagai kunci.
 #
+![image](https://github.com/user-attachments/assets/40a3d807-ba8b-4ba1-95c4-e945e41d6251)
+
+tampilkan(self): Metode ini digunakan untuk menampilkan semua data mahasiswa yang ada dalam sistem.
+
+Cek Kosong: Sebelum menampilkan, program memeriksa apakah daftar mahasiswa kosong. Jika kosong, tampilkan pesan "Tidak ada data mahasiswa."
+
+Format Tampilan: Menampilkan nama, NIM, nilai, dan status mahasiswa dalam format tabel yang teratur. Nama mahasiswa ditampilkan dengan format huruf kapital pertama (title()).

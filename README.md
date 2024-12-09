@@ -76,5 +76,11 @@
 
 *B. CODE PROGRAM DAN PENJELASAN*
 
+![image](https://github.com/user-attachments/assets/b2081305-63cd-4adf-b699-e77ed0035f46)
+
+![image](https://github.com/user-attachments/assets/9109f7b6-2379-4efd-9e44-71e42e39bc09)
+
+
+
 
 

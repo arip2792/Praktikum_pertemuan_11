@@ -20,15 +20,22 @@
 
    >Keluar
 
-5. Pengguna Memilih Menu
-Jika Pilihan = 1 (Tambah Mahasiswa):
+3. Pengguna Memilih Menu
 
-Input nama, NIM, dan nilai.
-Validasi nama (minimal 3 karakter) dan nilai (antara 0 dan 100).
-Jika nama sudah ada, tampilkan pesan kesalahan.
-Tentukan status berdasarkan nilai.
-Tambahkan mahasiswa ke dalam daftar.
-Kembali ke Menu Utama.
+   Jika Pilihan = 1 (Tambah Mahasiswa):
+
+   >Input nama, NIM, dan nilai.
+
+   >Validasi nama (minimal 3 karakter) dan nilai (antara 0 dan 100).
+
+   >Jika nama sudah ada, tampilkan pesan kesalahan.
+
+   >Tentukan status berdasarkan nilai.
+
+   >Tambahkan mahasiswa ke dalam daftar.
+
+   >Kembali ke Menu Utama.
+
 Jika Pilihan = 2 (Tampilkan Mahasiswa):
 
 Tampilkan daftar mahasiswa yang ada.

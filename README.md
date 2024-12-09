@@ -8,7 +8,8 @@
 
 2. Tampilkan Menu Utama
 
-Menampilkan menu pilihan untuk pengguna:
+   Menampilkan menu pilihan untuk pengguna:
+
 Tambah Mahasiswa
 Tampilkan Mahasiswa
 Hapus Mahasiswa

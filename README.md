@@ -80,12 +80,14 @@
 
 ![image](https://github.com/user-attachments/assets/9109f7b6-2379-4efd-9e44-71e42e39bc09)
 
+#
+
 PENJELASAN :
 
 ![image](https://github.com/user-attachments/assets/0ff6dbdc-17e6-4f01-9882-80d7aebdf0a9)
 
 __init__(self) adalah metode yang dijalankan otomatis ketika kita membuat objek dari kelas SistemMahasiswa. Di dalam metode ini, kita membuat atribut __daftar_mahasiswa yang berupa dictionary kosong. Dictionary ini akan digunakan untuk menyimpan data mahasiswa, di mana nama mahasiswa menjadi kunci (key), dan informasi seperti NIM, nilai, dan status menjadi nilai (value).
-
+#
 ![image](https://github.com/user-attachments/assets/5e0fc611-d56b-468f-84d0-cca656ccbab9)
 
 tambah(self, nama, nim, nilai): Metode ini digunakan untuk menambahkan mahasiswa ke dalam daftar __daftar_mahasiswa.
@@ -105,4 +107,4 @@ Menentukan Status Mahasiswa: Berdasarkan nilai yang dimasukkan, status mahasiswa
    >Nilai < 60 → "Perlu Perbaikan"
 
 Menyimpan Data Mahasiswa: Setelah validasi dan penentuan status, data mahasiswa disimpan dalam dictionary __daftar_mahasiswa dengan nama mahasiswa (huruf kecil) sebagai kunci.
-
+#

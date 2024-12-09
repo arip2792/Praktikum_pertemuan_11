@@ -1,3 +1,5 @@
 # Praktikum_pertemuan_11
 
-adad
+*A. ALGORITMA PROGRAM*
+
+

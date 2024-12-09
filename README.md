@@ -10,15 +10,15 @@
 
    Menampilkan menu pilihan untuk pengguna:
 
-Tambah Mahasiswa
+>Tambah Mahasiswa
 
-Tampilkan Mahasiswa
+>Tampilkan Mahasiswa
 
-Hapus Mahasiswa
+>Hapus Mahasiswa
 
-Ubah Data Mahasiswa
+>Ubah Data Mahasiswa
 
-Keluar
+>Keluar
 
 5. Pengguna Memilih Menu
 Jika Pilihan = 1 (Tambah Mahasiswa):

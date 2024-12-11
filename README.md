@@ -103,7 +103,7 @@ Fungsi menggunakan for data in daftar_nilai: untuk mengiterasi setiap elemen dal
 
 Fungsi hapus() digunakan untuk menghapus data mahasiswa berdasarkan nama.
 
-global daftar_nilai digunakan untuk memastikan bahwa perubahan yang dilakukan pada daftar_nilai berlaku di seluruh program (walaupun dalam kasus ini penggunaan global bisa dihindari jika kita menggunakan return value atau metode lain).
+global daftar_nilai digunakan untuk memastikan bahwa perubahan yang dilakukan pada daftar_nilai berlaku di seluruh program.
 
 Fungsi ini akan mengiterasi daftar_nilai dan mencari data mahasiswa yang memiliki nama yang sama dengan parameter nama.
 
@@ -113,13 +113,43 @@ Jika data mahasiswa tidak ditemukan, maka akan mencetak pesan bahwa mahasiswa de
 
 #
 
+![image](https://github.com/user-attachments/assets/2f6941a0-f128-4d33-8a5c-853c4a2bb1a1)
 
+Fungsi ubah() digunakan untuk mengubah data mahasiswa berdasarkan nama.
 
+Fungsi ini menerima parameter nama, nim_baru, kelas_baru, dan nilai_baru yang digunakan untuk memperbarui data mahasiswa.
 
+Fungsi akan mencari data mahasiswa dengan nama yang sesuai dan memperbarui nilai-nilai di dalam dictionary tersebut.
 
+Jika data ditemukan dan berhasil diubah, maka akan mencetak pesan bahwa data berhasil diperbarui.
 
+Jika mahasiswa dengan nama tersebut tidak ditemukan, akan mencetak pesan kesalahan.
 
+#
 
+![image](https://github.com/user-attachments/assets/f4bbfcf3-3ae0-46ed-abee-5012c1a7b7fe)
+
+Menu Interaktif:
+
+>Program ini menggunakan loop while True: untuk menampilkan menu interaktif yang memungkinkan pengguna memilih salah satu dari lima opsi:
+
+>Tambah Data: Pengguna diminta untuk memasukkan nama, NIM, kelas, dan nilai mahasiswa yang ingin ditambahkan.
+
+>Tampilkan Data: Menampilkan daftar mahasiswa yang sudah ada.
+
+>Hapus Data: Meminta nama mahasiswa yang ingin dihapus dari daftar.
+
+>Ubah Data: Meminta nama mahasiswa yang ingin diubah, kemudian meminta NIM baru, kelas baru, dan nilai baru.
+
+>Keluar: Keluar dari program dan mencetak pesan "Terima kasih!"
+
+Validasi Pilihan:
+
+Jika pengguna memasukkan pilihan selain 1-5, program akan mencetak pesan "Pilihan tidak valid, silakan coba lagi." dan kembali menampilkan menu.
+
+#
+
+*C. FLOWCHART*
 
 
 

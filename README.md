@@ -53,6 +53,6 @@
 
 >Pilihan 5: Keluar
 
-8. Selesai:
+7. Selesai:
 
    Jika pengguna memilih opsi keluar, program selesai.

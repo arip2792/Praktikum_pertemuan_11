@@ -151,7 +151,10 @@ Jika pengguna memasukkan pilihan selain 1-5, program akan mencetak pesan "Piliha
 
 *C. FLOWCHART*
 
+![image](https://github.com/user-attachments/assets/edf23781-df33-4e30-9872-750cc22e2479)
 
+#
 
+*D. HASIL RUN CODE*
 
 

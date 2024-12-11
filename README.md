@@ -42,10 +42,15 @@
 7. Menu utama:
 
    Tampilkan menu untuk memilih opsi:
+   
 >Pilihan 1: Tambah data
+
 >Pilihan 2: Tampilkan data
+
 >Pilihan 3: Hapus data
+
 >Pilihan 4: Ubah data
+
 >Pilihan 5: Keluar
    Berdasarkan input dari pengguna, panggil fungsi yang sesuai (tambah, tampilkan, hapus, ubah).
 

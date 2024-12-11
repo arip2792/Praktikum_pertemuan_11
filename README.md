@@ -157,4 +157,6 @@ Jika pengguna memasukkan pilihan selain 1-5, program akan mencetak pesan "Piliha
 
 *D. HASIL RUN CODE*
 
+![image](https://github.com/user-attachments/assets/10f79480-c312-4067-9e5c-1bf5a88c787c)
 
+![image](https://github.com/user-attachments/assets/00d992b3-7aee-460c-8c26-636799d987b6)

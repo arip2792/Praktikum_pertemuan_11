@@ -61,5 +61,45 @@
 
 *B. CODE PROGRAM DAN PENJELASAN*
 
+![image](https://github.com/user-attachments/assets/a23f9b2a-47a3-4bad-b9fc-9cb1ea95edcc)
+
+daftar_nilai adalah list kosong yang digunakan untuk menyimpan data mahasiswa dalam bentuk dictionary. Setiap dictionary akan berisi informasi tentang nama, NIM, kelas, dan nilai mahasiswa
+
+![image](https://github.com/user-attachments/assets/39da8d37-3013-402c-81c7-dd22818b0dd0)
+
+Fungsi tambah() digunakan untuk menambahkan data mahasiswa baru ke dalam list daftar_nilai.
+
+Parameter yang diterima adalah:
+
+>nama: Nama mahasiswa
+
+>nim: Nomor Induk Mahasiswa
+
+>kelas: Kelas mahasiswa
+
+>nilai: Nilai mahasiswa
+
+daftar_nilai.append() menambahkan dictionary baru ke dalam list daftar_nilai, dimana dictionary tersebut berisi data mahasiswa.
+
+Fungsi ini mencetak pesan konfirmasi bahwa data mahasiswa berhasil ditambahkan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

@@ -52,7 +52,6 @@
 >Pilihan 4: Ubah data
 
 >Pilihan 5: Keluar
-   Berdasarkan input dari pengguna, panggil fungsi yang sesuai (tambah, tampilkan, hapus, ubah).
 
 8. Selesai:
 
